@@ -1,0 +1,350 @@
+{
+  "bozeman": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "Bozeman itself has banned all new non-owner-occupied \"Type 3\" whole-home STR permits since Ordinance 2149 (Dec. 2023), leaving only a shrinking, non-transferable pool of ~100 grandfathered units, while owner-occupied Type 1/2 STRs remain broadly legal across most residential and mixed-use zones. Neighboring Belgrade, Manhattan, and unincorporated Gallatin County are comparatively light-touch, with STR legality controlled by zoning-district silence (not permitted unless a district names it) rather than an outright ban. Layered on top statewide: Montana's 2025&ndash;2026 property-tax reform taxes STR/non-owner-occupied property at a flat 1.90% versus a tiered ~0.76&ndash;1.90% rate for owner-occupied homes, and the Montana Supreme Court's 2025 <em>Brandt</em> ruling lets HOA covenants bar STR use even where zoning allows it.",
+    "permitResidency": [
+      "Permit / license required? Yes, in every jurisdiction covering this region. City of Bozeman requires a Type 1/2/3 STR registration through a six-step process (state/county licensing confirmation, fire inspection, floor plan, registration, annual renewal); Type 3 (non-owner-occupied, entire-home) has been closed to new entrants since Ordinance 2149 (Dec. 14, 2023) &mdash; only ~100 grandfathered, non-transferable permits remain. Belgrade requires a city STR license under City Code &sect;10-3-47; Manhattan and unincorporated Gallatin County rely on a general business license and, everywhere, the statewide Public Accommodations License (MCA Title 50, ch. 51) via the Gallatin City-County Health Department.",
+      "Primary residence required? Only indirectly &mdash; Bozeman's Type 1 and Type 2 categories require the unit be the operator's primary residence; only the closed, grandfathered Type 3 pool escapes this. Belgrade, Manhattan, and unincorporated Gallatin County impose no owner-occupancy requirement."
+    ],
+    "operatingLimits": [
+      "Bozeman: Type 3 (whole-home, non-owner-occupied) STRs are capped at the existing ~100 grandfathered units citywide and shrinking (non-transferable on sale); Types 1/2 are uncapped in number but confined to specific zoning districts (R-2 through R-5, R-O, REMU, and select commercial/mixed-use districts). Gallatin County's zoning only explicitly authorizes STRs in two of its 22 districts (Big Sky and Hebgen Lake, both outside this region) &mdash; elsewhere, if a district doesn't name STRs as a use, they are not permitted.",
+      "Taxes: 8% combined Montana Lodging Facility Sales &amp; Use Tax statewide (Montana has no general sales tax); no local resort tax anywhere in the Bozeman-region communities covered here (Bozeman, Belgrade, Manhattan, unincorporated Gallatin County are not designated resort areas)."
+    ],
+    "investorNotes": [
+      "Montana's 2025&ndash;2026 property-tax reform (HB 231/SB 542) taxes STR-classified and non-owner-occupied property at a flat 1.90% of assessed value, versus a tiered ~0.76&ndash;1.10% rate for owner-occupied &amp; qualifying long-term-rental homes &mdash; a real, quantifiable statewide carrying-cost penalty unique to STR classification.",
+      "<em>Myers v. Kleinhans</em> (Mont. Sup. Ct., Sept. 2024, arising in a Gallatin-area subdivision) and <em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155, July 2025) together establish that HOA/subdivision covenants barring \"commercial use\" or requiring \"residential\"/\"country residential\" use can and do bar STR operation, even without explicit STR language and even where zoning permits it &mdash; a 2025 bill (SB 336) that would have overridden this statewide died in the House.",
+      "Given Bozeman's near-total freeze on new whole-home STR permits, an investor targeting this region should specifically underwrite either an owner-occupied Type 1/2 operation inside city limits, or a whole-home STR in Belgrade/Manhattan/unincorporated county where no equivalent cap exists &mdash; but always with a parcel-level covenant check given <em>Brandt</em>."
+    ],
+    "sources": [
+      {
+        "title": "MCA 76-2-345, Accessory dwelling units",
+        "url": "https://mca.legmt.gov/bills/mca/title_0760/chapter_0020/part_0030/section_0450/0760-0020-0030-0450.html"
+      },
+      {
+        "title": "City of Bozeman — Short Term Rentals",
+        "url": "https://www.bozemanmt.gov/services/short-term-rentals"
+      },
+      {
+        "title": "Belgrade City Code §10-3-47, Short-Term Rentals",
+        "url": "https://codelibrary.amlegal.com/codes/belgrademt/latest/belgrade_mt/0-0-0-8827"
+      },
+      {
+        "title": "Myers v. Kleinhans, Montana Supreme Court, 2024 (DA 24-0069)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2024/da-24-0069.html"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "Montana Free Press — Bozeman votes to ban some short-term rentals, 'grandfathers' others",
+        "url": "https://montanafreepress.org/2023/10/18/bozeman-votes-to-ban-some-short-term-rentals-grandfathers-others/"
+      }
+    ]
+  },
+  "flathead-valley-glacier": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "This region splits across Whitefish, Kalispell, Columbia Falls, and unincorporated Flathead County (Bigfork, Lakeside, Somers, Coram/West Glacier), with no single unifying rule. Whitefish confines STRs to five zoning districts and has hired a dedicated enforcement specialist; Columbia Falls is mid-overhaul of its permit system (targeting a unified framework effective January 2027) and just rejected an owner-occupancy mandate; Kalispell's exact caps could not be verified from primary text; and unincorporated county land splits between conditional-use review (most of Bigfork/Lakeside/Somers) and light-touch \"exempt\"/\"minor review\" treatment in the Coram/West Glacier canyon corridor. Layered on top: a new (2025) 3% resort tax at Whitefish Mountain Resort/Big Mountain (outside city limits) and the statewide <em>Brandt</em> Supreme Court precedent letting HOA covenants override zoning.",
+    "permitResidency": [
+      "Permit / license required? Yes, varying by jurisdiction. Whitefish requires a Short-Term Rental Permit (~$400/yr) confined to 5 zoning districts (WB-3, WRR-1/2, WRB-1/2). Kalispell requires a permit under Ch. 27.20 with district-dependent eligibility. Columbia Falls requires a business license plus either a by-right registration (commercial zones) or an Administrative Conditional Use Permit (residential/ag zones, $325 fee) &mdash; moving toward a single unified permit (proposed effective Jan. 2027). Unincorporated county: an Administrative Conditional Use Permit is required in most Bigfork/Lakeside/Somers zoning districts; the Coram/West Glacier canyon corridor gets lighter \"exempt\" or \"minor land use\" review. Statewide Public Accommodation license required everywhere via the Flathead City-County Health Department.",
+      "Primary residence required? No, in every jurisdiction checked &mdash; notably, Columbia Falls' City Council explicitly voted (April 2026) to reject a proposed owner-occupancy restriction on new STR permits, keeping the door open to investor/non-owner-occupied STRs there."
+    ],
+    "operatingLimits": [
+      "Whitefish actively enforces against unpermitted units (a dedicated STR Code Enforcement Specialist since 2023; STR count reportedly fell ~11% in the year after); no numeric citywide cap, but STR density is capped by the underlying zoning district's dwelling-unit allowance. Kalispell's reported ~2%-of-residences cap in R/RA zones could not be independently confirmed against primary ordinance text. Columbia Falls: ~121 registered units but only 98 licensed and 90 paying resort tax (Jan. 2024 data) &mdash; a real compliance gap. Unzoned parcels in unincorporated Flathead County (common around the lake) face no zoning-based STR restriction at all.",
+      "Taxes: 8% state lodging tax everywhere, plus a local resort tax in some communities: Whitefish 3% (through 2045), the new Big Mountain Resort Area District 3% (effective June 2025, near Whitefish Mountain Resort outside city limits), and Columbia Falls 3% &mdash; each combining to an 11% total. Kalispell and the unincorporated lake/canyon communities (Bigfork, Lakeside, Somers, Coram, West Glacier) carry only the 8% state tax, a real yield advantage relative to Whitefish/Columbia Falls."
+    ],
+    "investorNotes": [
+      "<em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155, July 2025) arose in a rural subdivision near Whitefish in this exact region: the Montana Supreme Court held 1990s-era \"country residential living\"/no-commercial-use covenants bar STR operation even where zoning permits it &mdash; a &gt;$55,000/yr operation was shut down. Any covenant-restricted subdivision in this region (Whitefish Mountain Resort/Big Mountain condos, Flathead Lake shoreline developments) should be independently title-checked, not assumed clear from zoning alone.",
+      "Montana's 2025&ndash;2026 property tax reform taxes STR/second-home property at a flat 1.90% versus a tiered rate (as low as ~0.76%) for owner-occupied/qualifying long-term rentals &mdash; a real statewide carrying-cost differential.",
+      "No state STR preemption exists (Idaho-style HB 583 has no Montana analog); a 2025 attempt (SB 336) to reclassify STRs as protected residential use statewide died in the House, so local zoning authority described above is durable, not at risk of being overridden this cycle."
+    ],
+    "sources": [
+      {
+        "title": "Whitefish City Code §11-3-35, Short-Term Rental Standards",
+        "url": "https://codelibrary.amlegal.com/codes/whitefishmt/latest/whitefish_mt/0-0-0-5615"
+      },
+      {
+        "title": "City of Whitefish — Resort Tax",
+        "url": "https://www.cityofwhitefish.gov/336/Resort-Tax"
+      },
+      {
+        "title": "Flathead County — Short-term Rentals",
+        "url": "https://flatheadcounty.gov/department-directory/planning-zoning/short-term-rentals"
+      },
+      {
+        "title": "City of Columbia Falls — Short-Term Rentals",
+        "url": "https://www.cityofcolumbiafalls.org/bc-pbzc/page/short-term-rentals"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "Flathead Beacon — Columbia Falls City Council Opts Out of Owner-Occupied Short-Term Rental Permit Restrictions",
+        "url": "https://flatheadbeacon.com/2026/04/12/columbia-falls-city-council-opts-out-of-owner-occupied-short-term-rental-permit-restrictions/"
+      }
+    ]
+  },
+  "big-sky": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "Big Sky is unincorporated and has no municipal government, so STR regulation here is unusually fragmented: the Gallatin County portion (Meadow Village, Town Center, Spanish Peaks) has zoning that explicitly names and allows vacation rentals, while the Madison County portion (Big Sky Resort's base area, Moonlight Basin, Yellowstone Club) sits in a county with no zoning ordinance at all, leaving STR rights governed entirely by HOA/club covenants. A 4% Big Sky Resort Tax (among the highest in the state) applies districtwide. The 2025 <em>Brandt</em> Supreme Court ruling, which lets covenants override zoning, is especially consequential here given how covenant-dependent the market already is; Yellowstone Club in particular is members-only and effectively closed to conventional third-party STR use.",
+    "permitResidency": [
+      "Permit / license required? No dedicated county STR permit exists on either side of the county line &mdash; the operative requirement everywhere is the statewide Public Accommodations License (MCA Title 50, ch. 51) via the Gallatin City-County Health Department. Gallatin County's zoning (one of only two of its 22 districts to name STRs) formally authorizes vacation rentals in the Big Sky area; Madison County has no zoning ordinance anywhere, so STR use there is unregulated by any county planning authority.",
+      "Primary residence required? No county-level requirement on either side of the line. Where owner-occupancy or rental restrictions do exist, they come entirely from HOA/subdivision/club covenants (Big Sky Owners Association sub-associations, Spanish Peaks, Moonlight Basin, Yellowstone Club), not from any government rule."
+    ],
+    "operatingLimits": [
+      "No numeric STR cap found at the county level on either side of Big Sky. In practice, the real constraint is covenant-based and highly property-specific: individual BSOA sub-associations (e.g. Sweetgrass Hills) impose their own registration, fees, and occupancy limits; Spanish Peaks and Moonlight Basin rental rights vary lot-by-lot and building-by-building; Yellowstone Club is fully private and members-only, foreclosing conventional STR use of its real estate regardless of county zoning.",
+      "Taxes: combined 12% guest-facing tax on a typical Big Sky stay &mdash; 8% state Lodging Facility Sales &amp; Use Tax + 4% Big Sky Resort Tax (the full 3% base plus the 1% infrastructure increment), among the highest total lodging-tax stacks in Montana. Administered by the Big Sky Resort Area District across both counties."
+    ],
+    "investorNotes": [
+      "Because Madison County has zero zoning oversight, an investor evaluating a Big Sky property on the resort/Moonlight Basin/Yellowstone Club side is relying entirely on that property's own HOA/club rules, not on any public land-use protection &mdash; <em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155) confirms Montana courts will enforce clearly-drafted \"no commercial use\"/residential-only covenants to bar STR operation even where no zoning would stop it.",
+      "Yellowstone Club real estate is not a viable conventional STR target &mdash; it is members-only with no public day-guest program, regardless of any other regulatory finding in this report.",
+      "Gallatin County's zoning explicitly authorizing STRs in the Big Sky district is a genuine positive signal on that side of the line, but should not be read as extending to the Madison County side, which has an entirely different (zoning-free) legal structure."
+    ],
+    "sources": [
+      {
+        "title": "MCA 7-6-1532, Resort area district authorized",
+        "url": "https://mca.legmt.gov/bills/1999/mca/7/6/7-6-1532.htm"
+      },
+      {
+        "title": "Big Sky Resort Tax — FAQ (BSRAD)",
+        "url": "https://resorttax.org/frequently-asked-questions/"
+      },
+      {
+        "title": "Madison County, MT — Planning Office Regulations",
+        "url": "https://madisoncountymt.gov/314/Planning-Office-Regulations"
+      },
+      {
+        "title": "Gallatin County — Short-Term Rental FAQs",
+        "url": "https://www.gallatinmt.gov/planning-community-development/pages/short-term-rental-faqs"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "Explore Big Sky — The Big Sky Way: A tale of two counties",
+        "url": "https://www.explorebigsky.com/the-big-sky-way-a-tale-of-two-counties/51965"
+      }
+    ]
+  },
+  "paradise-valley-yellowstone-north": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "This region splits between the City of Livingston, which just adopted (effective Jan. 1, 2026) a brand-new, workable two-tier STR permit system with no numeric cap, and unincorporated Park County (covering Gardiner, Emigrant, and Pray), which has almost no STR-specific regulation at all outside a handful of zoning districts of uncertain STR content. Gardiner carries a local 4% resort tax and real, active political friction over STR-driven housing loss, including a homeowner-funded STR advocacy group and a 2025 county-adopted neighborhood plan of unconfirmed substantive content. Statewide, the <em>Myers v. Kleinhans</em> HOA-covenant precedent adds real diligence risk to any covenant-governed parcel in Paradise Valley's older river-corridor subdivisions.",
+    "permitResidency": [
+      "Permit / license required? Yes in Livingston &mdash; a new two-tier system (Type 1: owner-occupied/owner present; Type 2: non-owner-occupied with a 45-minute-drive responsible contact) took effect Jan. 1, 2026 under newly adopted Chapter 30 zoning, with a fee \"to be determined\" via separate resolution at adoption. No dedicated countywide STR permit or registration exists in unincorporated Park County (Gardiner, Emigrant, Pray) &mdash; the only confirmed mandatory layer there is the statewide Public Accommodations License (MCA Title 50, ch. 51) via Park County Environmental Health; some secondary sources claim Gardiner requires a separate business license, unconfirmed against a primary ordinance.",
+      "Primary residence required? No &mdash; Livingston's Type 2 (non-owner-occupied) category is expressly allowed, just with a responsible-contact condition; no owner-occupancy requirement exists anywhere in unincorporated Park County either."
+    ],
+    "operatingLimits": [
+      "Livingston permits STRs in all zoning districts except Light Industrial, Capital Facilities, and PUDs, with no numeric cap or moratorium found. Unincorporated Park County has no STR cap, ban, or owner-occupancy mandate; its zoning coverage is a patchwork of citizen-initiated districts (including a Paradise Valley district covering the Emigrant/Pray area) whose STR-specific content could not be confirmed from primary text.",
+      "Taxes: 8% state lodging tax applies throughout; an additional 4% Gardiner Resort Tax applies only within the Gardiner resort-area district (for a combined ~12% there) &mdash; Livingston (pop. ~9,000) exceeds the 5,500-population cap for resort-community status and is statutorily ineligible for any local resort tax; Emigrant and Pray have no resort-area designation."
+    ],
+    "investorNotes": [
+      "<em>Myers v. Kleinhans</em> (Mont. Sup. Ct., Sept. 2024) holds that operating an Airbnb is a \"commercial business\" under Montana law, breaching covenants against commercial use even without explicit STR language &mdash; Paradise Valley's older river-corridor ranchette/subdivision covenants along US-89 should be individually checked, not assumed clear because county zoning is largely silent on STRs.",
+      "Gardiner shows real, active political pressure over STR-driven housing conversion (a homeowner association retained counsel to defend the industry; the county funded a 40-unit workforce-housing project with ARPA dollars; a 2025 Gardiner Neighborhood Plan of unconfirmed STR content was adopted as a growth-policy addendum) &mdash; the currently loose regulatory environment there is plausibly temporary.",
+      "Livingston's new Chapter 30 STR system is only months old as of this report (effective Jan. 1, 2026); its final permit fee and enforcement mechanics should be directly confirmed with the city's Building &amp; Planning office before underwriting."
+    ],
+    "sources": [
+      {
+        "title": "MCA 7-6-1503, Limit on resort tax rate",
+        "url": "https://law.justia.com/codes/montana/title-7/chapter-6/part-15/section-7-6-1503/"
+      },
+      {
+        "title": "City of Livingston — Chapter 30 Zoning, adopted Dec. 2, 2025",
+        "url": "https://www.livingstonmontana.org/sites/default/files/fileattachments/building_amp_planning/page/2245/ch30_zoning_adopted_final_to_municode.pdf"
+      },
+      {
+        "title": "Park County, MT — Planning Dept./Zoning",
+        "url": "https://www.parkcountymt.gov/Government-Departments/Planning/Zoning-Applicaitons/"
+      },
+      {
+        "title": "Gardiner Resort Area District — About/FAQs",
+        "url": "https://www.gardinerresorttax.com/faqs"
+      },
+      {
+        "title": "Myers v. Kleinhans, Montana Supreme Court, 2024 (DA 24-0069)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2024/da-24-0069.html"
+      },
+      {
+        "title": "Livingston Enterprise — City commissioners adopt new zoning code",
+        "url": "https://www.livingstonenterprise.com/news/city-commissioners-adopt-new-zoning-code/article_7edf5474-6c0f-4e42-860b-49dde33b6bdd.html"
+      }
+    ]
+  },
+  "west-yellowstone": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "West Yellowstone confines by-right STR use to its small B-3 central business district, prohibits STRs in its residential zones (R-1, R-2, E-2) and in accessory dwelling units, and bars non-owner-occupied \"tourist home\" use outright in the platted Madison Addition subdivision. Unincorporated Gallatin County land near town (Hebgen Lake/Rainbow Point) allows STRs only as a Conditional Use in specific sub-districts, with a real, capped example (5 of 8 lots) at Rainbow Point. The town's resort tax stacks to a 12% combined lodging-tax rate in-town; outside town limits only the 8% state tax applies. As in the rest of Montana, the 2025 <em>Brandt</em> Supreme Court ruling means covenant risk (concentrated here in the Madison Addition and Hebgen Lake HOAs) sits on top of the zoning picture.",
+    "permitResidency": [
+      "Permit / license required? Yes, in town &mdash; a general business license plus a non-transferable per-unit STR registration (owner/responsible-person contact, 24/7 emergency contact, MT DOR tax-registration number, parking/bedroom sketch plan, fire inspection, and either a health inspection or a Public Accommodations License); a $500 resort-tax bond is also required. In unincorporated Gallatin County near town, STR use requires a Conditional Use Permit only in zoning districts that name it (e.g. Hebgen Lake/Rainbow Point); the statewide Public Accommodations License applies everywhere via the Gallatin City-County Health Department.",
+      "Primary residence required? No, town-wide &mdash; non-owner-occupied STR is legal in the B-3 core &mdash; except in the platted Madison Addition subdivision, where non-owner-occupied/\"tourist home\" rentals are prohibited outright."
+    ],
+    "operatingLimits": [
+      "STR use is zoning-gated, not town-wide by right: permitted in the B-3 central business district, barred in R-1/R-2/E-2 residential districts and in ADUs. No numeric town-wide cap was found; density is functionally limited by confining by-right use to the small commercial core and tying capacity to off-street parking shown on the registration sketch plan. In the county, Rainbow Point's own zoning caps STR/B&amp;B/guest-caretaker use to only 5 of 8 lots in that specific subdivision.",
+      "Taxes: combined 12% on an in-town stay (8% state Lodging Facility Sales &amp; Use Tax + 4% West Yellowstone Resort Tax, running through 2045); outside town limits in unincorporated Gallatin County, only the 8% state tax applies &mdash; the town's resort tax does not reach the surrounding county."
+    ],
+    "investorNotes": [
+      "The Madison Addition Owners Association's non-owner-occupied/tourist-home ban is a double layer of risk (town carve-out plus possible private covenant) requiring parcel-specific verification of both the zoning designation and the recorded covenants before assuming any lot there can operate a whole-home STR.",
+      "<em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155) confirms Montana courts will enforce ambiguous-sounding \"residential/no commercial use\" covenants to bar STR operation even where zoning allows it &mdash; relevant to Hebgen Lake Estates and any other covenant-governed lot in this region, not just Madison Addition.",
+      "Workforce-housing strain in this gateway community keeps local STR policy politically live even though no cap or moratorium exists today &mdash; treat the current permissive zoning-gated framework as subject to future tightening, not a settled baseline."
+    ],
+    "sources": [
+      {
+        "title": "MCA §7-6-1503, Limit on resort tax rate",
+        "url": "https://law.justia.com/codes/montana/title-7/chapter-6/part-15/section-7-6-1503/"
+      },
+      {
+        "title": "Town of West Yellowstone Municipal Code, Ch. 17.22 — B-3 Central Business District",
+        "url": "https://www.codepublishing.com/MT/WestYellowstone/html/WestYellowstone17/WestYellowstone1722.html"
+      },
+      {
+        "title": "Town of West Yellowstone — Resort Tax Information",
+        "url": "https://www.townofwestyellowstone.com/resort-tax-information/"
+      },
+      {
+        "title": "Gallatin County — Short-Term Rental FAQs",
+        "url": "https://www.gallatinmt.gov/593/Short-Term-Rental-FAQs"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      }
+    ]
+  },
+  "missoula": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "The City of Missoula runs an actively-enforced STR registration/license/health-inspection regime (fees rising to $660 new / $245 renewal as of 2026) with a documented ~20-week health-inspection bottleneck, and came within two votes in 2025 of banning new non-owner-occupied STRs in residential zones outright. Missoula's zoning code was just replaced (old Title 20 by a new Title 22 Unified Development Code, effective March 2026), and the exact new STR use-table language could not be independently confirmed. Unincorporated Missoula County (Lolo, Bonner/Milltown, Clinton, Florence) has uneven zoning-district coverage, so STR legality there depends on whether a given parcel sits inside an adopted zoning district that addresses \"tourist homes\" at all. Missoula's population is far too large to qualify for Montana's local resort tax.",
+    "permitResidency": [
+      "Permit / license required? Yes, in the City of Missoula &mdash; a city STR registration (registration number must appear in every listing), an annual rental business license (renewed by Jan. 31, $660 new/$245 renewal + 5% tech fee as of the 2026 schedule), a Safety Self-Inspection Checklist, a Public Accommodations license/inspection through the joint City-County Health Department, and (for tourist homes in residential districts) a Neighbor Notification requirement. In unincorporated Missoula County, the statewide Public Accommodations License applies everywhere; no separate county STR permit system was confirmed, and county zoning (where a district exists) may require its own review.",
+      "Primary residence required? No citywide mandate &mdash; a 2025 council proposal to ban new non-owner-occupied STRs in residential zones failed 10-2; a room rented within an owner-occupied home gets lighter-touch treatment (exempt from full \"short-term rental\" registration) than a whole-unit \"tourist home\" rental."
+    ],
+    "operatingLimits": [
+      "No blanket numeric citywide cap in Missoula as of this report, though the 2025 near-miss council vote signals real political risk of future tightening; roughly half of the city's ~585 identified STRs were found unregistered in a 2024 compliance sweep, since narrowed via a cooperative enforcement push. In unincorporated Missoula County, STR legality depends on whether a parcel falls inside one of the county's citizen-initiated zoning districts that names \"tourist home\" as a use &mdash; unzoned parcels face no zoning-based restriction, but zoning-district coverage across Lolo, Bonner/Milltown, Clinton, and Florence could not be independently confirmed from primary text.",
+      "Taxes: 8% combined state lodging tax applies throughout; Missoula (pop. ~78,900) is far above Montana's 5,500-population cap for resort-community status and is categorically ineligible for a local resort tax &mdash; no resort tax applies anywhere in this region."
+    ],
+    "investorNotes": [
+      "Montana's 2025&ndash;2026 property tax reform taxes STR/second-home property at a flat ~1.90% versus a tiered rate (as low as ~0.76%) for owner-occupied/qualifying long-term-rental homes, adding a real statewide carrying-cost penalty to any Missoula-region STR.",
+      "<em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155) is binding statewide precedent even though it arose near Whitefish: any deed-restricted subdivision in the Missoula region (city or county) should be checked for covenant language barring \"commercial\" or non-\"residential\" use before purchase, independent of zoning/permit clearance.",
+      "Missoula's health-inspection backlog (~20 weeks, one council member's own registration reportedly took 16 months) is a real, practical time cost that should be built into any acquisition timeline, separate from the underlying legal permissibility of STR use."
+    ],
+    "sources": [
+      {
+        "title": "MCA § 50-51-102, Definitions (tourist home / establishment)",
+        "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0510/part_0010/section_0020/0500-0510-0010-0020.html"
+      },
+      {
+        "title": "City of Missoula — Short Term Rental Registration",
+        "url": "https://www.ci.missoula.mt.us/3289/Short-Term-Rental-Registration"
+      },
+      {
+        "title": "Missoula County — Zoning Regulations page",
+        "url": "https://www.missoulacounty.gov/departments/planning-development-and-sustainability/development-review/zoning-regulations/"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "Missoula Current — Missoula's short-term rental recommendations mindful of potential legislative pushback",
+        "url": "https://missoulacurrent.com/missoula-short-term-rental/"
+      },
+      {
+        "title": "Montana Free Press — Missoula looks to increase housing with new zoning regulations",
+        "url": "https://montanafreepress.org/2026/02/03/missoula-looks-to-increase-housing-with-new-zoning-regulations/"
+      }
+    ]
+  },
+  "red-lodge": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "Red Lodge allows STRs citywide with no owner-occupancy requirement, but caps them at 20% of citywide housing stock under Ordinance 963 (recalculated annually; the city sat at roughly 11% utilization as of late 2025) with a waiting list once the cap is hit, plus annual, non-transferable registration. Unincorporated Carbon County (including Roberts) has no STR-specific use category in its development regulations at all, leaving a genuine zoning-classification ambiguity between \"Residential Use\" (lighter, administrative) and \"Commercial Use\" (heavier, with neighbor notice) that the county resolves case-by-case. A concrete, documented HOA covenant risk exists in the Red Lodge Country Club Estates subdivision, whose Area 1 covenants combine a residential-use clause with a separate commercial-use ban &mdash; the same structure the Montana Supreme Court found sufficient to bar STRs elsewhere in the state.",
+    "permitResidency": [
+      "Permit / license required? Yes, in Red Lodge &mdash; a multi-step process (online pre-registration, a Montana Public Accommodations License via the Carbon County Sanitarian, an annual Fire Department STR inspection, a $500 resort-tax compliance bond, and a $250 registration fee) is required before operating, renewed annually by July 1. In unincorporated Carbon County (including Roberts), no county STR-specific permit exists; the statewide Public Accommodations License via the Carbon County Sanitarian still applies, and land use is governed by the county's general Residential/Commercial Use classifications rather than any STR-specific rule.",
+      "Primary residence required? No, in either jurisdiction &mdash; Red Lodge has no owner-occupancy mandate, and unincorporated Carbon County imposes none either."
+    ],
+    "operatingLimits": [
+      "Red Lodge caps total STRs at 20% of citywide housing stock (Ordinance 963, 2023), recalculated annually; the city reported roughly 11% utilization (~200 units) as of its late-2025 review, comfortably under the ceiling, though registrations are non-transferable on sale and lapse if not renewed by July 1 (auto-terminating by September 1). Unincorporated Carbon County has no numeric cap &mdash; Ordinance 963's cap applies only inside Red Lodge city limits &mdash; but a given property's STR use may be classified as \"Commercial Use,\" triggering a 100-foot neighbor-notice and comment period, at the Planning Director's discretion.",
+      "Taxes: combined ~12% inside Red Lodge city limits (8% state Lodging Facility Sales &amp; Use Tax + 4% city Resort Tax, split 3% base + 1% infrastructure); outside city limits in unincorporated Carbon County/Roberts, only the 8% state tax applies &mdash; no county-level resort tax has been adopted."
+    ],
+    "investorNotes": [
+      "Red Lodge Country Club Estates' Area 1 (single-family/duplex) covenants permit residential leasing but separately bar \"professional, commercial, manufacturing or trade\" use &mdash; structurally the same combination of clauses the Montana Supreme Court found sufficient to bar STR operation in <em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155). This is a concrete, documented risk in this specific region, not a generic statewide caveat.",
+      "Because Red Lodge's 20% cap is currently non-binding (~11% utilized), near-term acquisition risk from the cap itself is low, but the non-transferable, annually-renewed nature of each registration means a change of ownership always requires a fresh application &mdash; and a fresh application after the cap fills could land on a waiting list.",
+      "Unincorporated Carbon County's residential-vs-commercial classification ambiguity for STRs should be confirmed directly with the County Planning Director before purchase, particularly for any purpose-built or multi-unit rental property near Roberts."
+    ],
+    "sources": [
+      {
+        "title": "MCA Title 7, Ch. 6, Part 15 index (Resort Tax)",
+        "url": "https://mca.legmt.gov/bills/mca/title_0070/chapter_0060/part_0150/sections_index.html"
+      },
+      {
+        "title": "City of Red Lodge — Short Term Rental Compliance",
+        "url": "https://www.cityofredlodge.net/community/page/short-term-rental-compliance"
+      },
+      {
+        "title": "City of Red Lodge — Resort Tax",
+        "url": "https://www.cityofredlodge.net/administrative-services/page/resort-tax"
+      },
+      {
+        "title": "Carbon County Development Regulations, Adopted 2016/Rev. May 2021 (PDF)",
+        "url": "https://carbonmt.gov/wp-content/uploads/2024/06/Carbon-County-Development-Regulations-Adopted-May-2021.pdf"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "Red Lodge Country Club Estates — Amended Declaration of Covenants (PDF)",
+        "url": "https://www.redlodgemountain.com/wp-content/uploads/covenants-red-lodge-country-club-estates-red-lodge-montana.pdf"
+      }
+    ]
+  },
+  "billings": {
+    "tier": "Verify / Heavier Constraints",
+    "verifiedDate": "2026-09-18",
+    "summary": "Billings has run a citywide STR permit ordinance since 2021 (Sec. 27-1621) that is comparatively permissive on paper &mdash; no owner-occupancy mandate, whole-home \"Tourist Home\" rentals explicitly legal across most residential and mixed-use zones, no citywide cap &mdash; but the city has since deployed listing-scraping enforcement software that found the majority of existing STRs (300+ of ~470) non-compliant, with escalating daily fines for continued violations. As Montana's largest city, Billings is far too populous to qualify for any local resort tax, so its guest-facing tax stack is only the statewide 8%. Statewide property-tax reform and HOA-covenant case law apply here just as elsewhere in Montana.",
+    "permitResidency": [
+      "Permit / license required? Yes &mdash; a City Business License (~$55/yr) plus an annual, non-transferable Short-Term Rental Permit (~$300/yr) issued by the zoning coordinator, requiring a 24/7 local individual contact, attestation of code compliance, and disclosure of all listing URLs. Two identically-permitted categories exist: \"Guest Home\" (host-present) and \"Tourist Home\" (whole-unit, unoccupied by a resident) &mdash; whole-home, non-hosted STRs are explicitly legal. Unincorporated Yellowstone County is reported to have no STR-specific permit requirement, though this rests on a secondary source, not directly reviewed county code.",
+      "Primary residence required? No &mdash; \"Tourist Home\" (non-owner-occupied, whole-unit) is a first-class, explicitly legal permit category citywide in eligible zones."
+    ],
+    "operatingLimits": [
+      "One STR permit per dwelling unit (max two per property, per secondary source); no citywide numerical cap or moratorium. STRs are reportedly eligible in most neighborhood-residential and mixed-use/commercial zones, with multi-unit buildings under single ownership eligible for permits on up to ~20% of units &mdash; this district-by-district detail rests on a secondary aggregator and should be reconfirmed before underwriting a specific parcel. Active 2025 enforcement identified 300+ unpermitted STRs against ~170 compliant ones, with 60-day cure windows before referral to Code Enforcement and escalating civil penalties for continued non-compliance.",
+      "Taxes: 8% combined state lodging tax only &mdash; Billings' population (~121,000) and Yellowstone County's (~173,000) both exceed Montana's resort-tax population caps (5,500 incorporated / 2,500 unincorporated) by more than 20x, so no local resort tax applies anywhere in this region."
+    ],
+    "investorNotes": [
+      "Montana's 2025 property tax reform (HB 231/SB 542) taxes STR-classified and non-qualifying second-home property at a flat 1.90% of assessed value versus a tiered ~0.76&ndash;2.2% rate for owner-occupied/qualifying long-term-rental homes &mdash; a real, quantifiable carrying-cost differential that applies to every STR in this region, not just Montana's resort markets.",
+      "<em>Myers v. Kleinhans</em> (2024) and <em>Brandt v. R&amp;R Mountain Escapes, LLC</em> (2025 MT 155) together establish that Montana courts will enforce HOA/subdivision covenants barring \"commercial business\" or requiring residential-only use against STR operators, even where a city permit has been issued &mdash; Billings' newer platted subdivisions (e.g. West End, Lockwood/Shiloh corridor) should be checked for this independently of city zoning/permit clearance.",
+      "Billings' active enforcement posture (majority of existing STRs found non-compliant in 2025) means an acquisition here should budget for the full licensing/inspection compliance cost from day one, not treat registration as a formality."
+    ],
+    "sources": [
+      {
+        "title": "MCA 7-6-1501, Definitions (Resort Tax)",
+        "url": "https://mca.legmt.gov/bills/mca/title_0070/chapter_0060/part_0150/section_0010/0070-0060-0150-0010.html"
+      },
+      {
+        "title": "City of Billings — Short-Term Rental Permit / Zoning Code Regulations, Sec. 27-1621",
+        "url": "https://billingsmt.gov/DocumentCenter/View/47977/Short-Term-Rental-Permit-Zoning-Code-Regulations"
+      },
+      {
+        "title": "City of Billings — STR compliance civic alert",
+        "url": "https://www.billingsmt.gov/CivicAlerts.aspx?AID=2684"
+      },
+      {
+        "title": "Myers v. Kleinhans, Montana Supreme Court, 2024 (DA 24-0069)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2024/da-24-0069.html"
+      },
+      {
+        "title": "Brandt v. R&R Mountain Escapes, LLC, 2025 MT 155 (DA 23-0716)",
+        "url": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0716.html"
+      },
+      {
+        "title": "KULR8 — Billings short-term rental owners urged to comply with local ordinance",
+        "url": "https://www.kulr8.com/news/billings-short-term-rental-owners-urged-to-comply-with-local-ordinance/article_d846914c-fe2c-11ef-941b-5f8e3034b4c1.html"
+      }
+    ]
+  }
+}
